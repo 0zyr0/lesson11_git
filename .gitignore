@@ -1,0 +1,11 @@
+.idea/
+.gradle/
+*.log
+*.class
+*.iml
+build/
+target/
+
+#обязательное добавление в git при помощи отрицания !
+!gradle/
+
